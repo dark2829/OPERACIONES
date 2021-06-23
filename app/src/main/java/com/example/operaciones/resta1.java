@@ -114,7 +114,7 @@ public class resta1 extends AppCompatActivity {
     }
 
     public void ImgAleatorio(){
-        if(score <= 9){
+        if(score <= 30){
             aleatorio_uno = (int) (Math.random() * 9);
             aleatorio_dos = (int) (Math.random() * 9);
             System.out.println("aleatorio1: "+aleatorio_uno);

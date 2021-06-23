@@ -114,7 +114,7 @@ public class mult1 extends AppCompatActivity {
     }
 
     public void ImgAleatorio(){
-        if(score <= 9){
+        if(score <= 40){
             aleatorio_uno = (int) (Math.random() * 9);
             aleatorio_dos = (int) (Math.random() * 9);
             System.out.println("aleatorio1: "+aleatorio_uno);
@@ -139,7 +139,7 @@ public class mult1 extends AppCompatActivity {
                 ImgAleatorio();
             }
         }else{
-            Intent seguir = new Intent(this, suma2.class);
+            Intent seguir = new Intent(this, MainActivity.class);
 
             scoreString = String.valueOf(score);
             vidasString = String.valueOf(vidaInt);
