@@ -1,3 +1,17 @@
 <resources>
-    <string name="app_name">OPERACIONES</string>
+    <string name="app_name">Aprender es divertido</string>
+    <!--Textos para la pantalla principal-->
+    <string name="titulo">Funny Math´s</string>
+    <string name="resumen">¿Qué es?
+        <br>Es una aplicación que promueve el aprendizaje de la suma de manera llamativa, divertida y sencilla.
+    Tomando en cuenta que esta dirigida para niños de 3 a 5 años.</br></string>
+    <string name="b_main">Jugar</string>
+
+    <!--Operaciones-->
+    <string name="suma">+</string>
+
+    <!--Login-->
+    <string name="entrada_logn">Ingresa tu nombre:</string>
+    <string name="btn_comenzar">Comenzar</string>
+    <string name="salida_record">Record: </string>
 </resources>
