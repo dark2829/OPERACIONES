@@ -13,5 +13,14 @@
     <!--Login-->
     <string name="entrada_logn">Ingresa tu nombre:</string>
     <string name="btn_comenzar">Comenzar</string>
-    <string name="salida_record">Record: </string>
+    <string name="salida_record"> </string>
+
+    <!--niveles-->
+    <string name="vidas">Estrellas: </string>
+    <string name="jugador_nombre">Jugador: </string>
+    <string name="total_score">Score: </string>
+    <string name="btn_comprobar">Comprobar: </string>
+    <string name="s_txt_comprobar">Respuesta: </string>
+    <string name="i_txt_comprobar">¿Sabes la respuesta?</string>
+    <string name="b_comprobar">Comprobar</string>
 </resources>

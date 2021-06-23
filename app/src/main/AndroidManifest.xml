@@ -9,7 +9,11 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/Theme.Design.NoActionBar">
-        <activity android:name=".login"></activity>
+        <activity android:name=".mult1"></activity>
+        <activity android:name=".resta1" />
+        <activity android:name=".suma2" />
+        <activity android:name=".suma1" />
+        <activity android:name=".login" />
         <activity android:name=".sumaN1" />
         <activity android:name=".MainActivity">
             <intent-filter>
